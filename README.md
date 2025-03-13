@@ -1,1 +1,4 @@
-# Tema1WebDevelopment
+- cafea de specialitate
+- bolt.new AI
+- https://smartcoffeeeu.com/?gad_source=1&gbraid=0AAAAA-FQQoNTesatXQm1HO6ny1S3ahpgR&gclid=Cj0KCQjwhMq-BhCFARIsAGvo0KdZaE74DQnTa3GqDuad4y01sEIQR2W1mB4KZZ8HuW9DCFwNuiwrRXcaAs8vEALw_wcB
+- https://www.w3schools.com
